@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 
-[https://www.notion.so/whyk0426/YK-e8ab097cb7654c63aa6407f8a30affd2](https://www.notion.so/YK-e8ab097cb7654c63aa6407f8a30affd2?pvs=21)
+노션링크 -> [https://www.notion.so/whyk0426/YK-e8ab097cb7654c63aa6407f8a30affd2](https://www.notion.so/YK-e8ab097cb7654c63aa6407f8a30affd2?pvs=21)
 <!--
 **whyk0426/whyk0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
